@@ -1,0 +1,82 @@
+---
+booktitle: Proceedings of the First Conference on Causal Learning and Reasoning
+conference_number: '1'
+end: 2022-04-13
+published: 2022-06-28
+shortname: CLeaR
+start: 2022-04-11
+volume: '177'
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: clear2022
+month: 0
+cycles: false
+bibtex_editor: Sch{\"o}lkopf, Bernhard and Uhler, Caroline and Zhang, Kun
+editor:
+- given: Bernhard
+  family: Schölkopf
+- given: Caroline
+  family: Uhler
+- given: Kun
+  family: Zhang
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the First Conference on Causal Learning and Reasoning
+    Held in Sequoia Conference Center, Eureka, CA, USA on 11-13 April 2022
+
+  Published as Volume 177 by the Proceedings of Machine Learning Research on 28 June 2022.
+
+  Volume Edited by:
+    Bernhard Schölkopf
+    Caroline Uhler
+    Kun Zhang
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 11--13 Apr
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v177"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v177
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v177
+email: ''
+conference:
+  name: Conference on Causal Learning and Reasoning
+  url: https://cclear.cc
+  location: Sequoia Conference Center, Eureka, CA, USA
+  dates:
+  - 2022-04-11
+  - 2022-04-12
+  - 2022-04-13
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v177/clear2022.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v177/clear2022.bib
